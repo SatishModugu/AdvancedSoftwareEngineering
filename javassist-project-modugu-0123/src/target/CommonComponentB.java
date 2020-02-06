@@ -1,11 +1,12 @@
 package target;
 
 public class CommonComponentB {
-	int id = 18, year= 2018;
+	int idB = 0;
+	String nameB = "";
 	public CommonComponentB()
 	{
-		id++;
-		year++;
+		idB = 86899582;
+		nameB = "modugu";
 	}
 
 }
